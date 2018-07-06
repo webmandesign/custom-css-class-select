@@ -81,3 +81,5 @@ There are several filter hooks available in this code, named using `__CLASS__ . 
 ---
 
 More information can be found in [Wiki pages](https://github.com/webmandesign/custom-css-class-select/wiki).
+
+&copy; [WebMan Design, Oliver Juhas](https://www.webmandesign.eu) | Licensed under [GPL v3.0](https://www.gnu.org/licenses/gpl-3.0.html)
